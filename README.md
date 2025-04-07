@@ -3,7 +3,7 @@
 Este é um projeto simples de **clone da tela de login da Netflix**, criado com **HTML** e **CSS**. O objetivo foi praticar habilidades de front-end, recriando uma interface conhecida e estilosa.
 
 🔗 **Acesse o projeto online:**  
-[https://ph-palmito.github.io/netflix-login-clone/]([https://ph-palmito.github.io/loginNetflixClone/)
+[https://ph-palmito.github.io/loginNetflixClone/](https://ph-palmito.github.io/loginNetflixClone/)
 
 ---
 
@@ -22,8 +22,8 @@ Reproduzir fielmente a tela de login da Netflix como parte dos meus estudos de d
 
 ## 📸 Screenshots
 
-![Captura de tela 2025-04-07 095407](https://github.com/user-attachments/assets/6eb5f0bd-dfd1-407a-be5c-f42a355feda6)
-
+<img src="https://ph-palmito.github.io/loginNetflixClone/assets/preview.png" alt="Screenshot do projeto" width="600"/>  
+<!-- Certifique-se de que essa imagem existe no seu repositório. Coloque o caminho correto caso seja diferente. -->
 
 ---
 
@@ -35,4 +35,10 @@ Reproduzir fielmente a tela de login da Netflix como parte dos meus estudos de d
 - Design visual baseado em produto real
 
 ---
+
+## 📁 Como usar
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/ph-palmito/loginNetflixClone.git
 
